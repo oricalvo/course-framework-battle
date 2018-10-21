@@ -1,0 +1,26 @@
+Component based architecture
+Undirectional data flow
+SSR
+Web workers
+Native development
+Views compilation
+Dependency injection
+View encapsulation
+HMR
+Routing
+Forms
+Functional component
+Size
+minimal project
+Templating language
+Reactivity
+Licensing
+Share data between components
+Browser support
+Rendering optimization
+Tooling support (linting, type checking)
+CSS-in-JS
+DevTools
+
+Getting started
+

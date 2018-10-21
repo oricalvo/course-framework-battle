@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <h1>Hello Vue</h1>
+
+    <a v--if="user.isAdmin" href="#admin">Admin</a>
+    <button v-on:click="sayHello">Say Hello</button>
+
+    <ul>
+        <li v-for="contact in contacts">
+            <span>{{contact.name}}</span>
+        </li>
+    </ul>
+</div>
+
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
